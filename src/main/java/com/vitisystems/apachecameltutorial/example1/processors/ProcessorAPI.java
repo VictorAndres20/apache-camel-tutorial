@@ -14,8 +14,6 @@ public class ProcessorAPI implements Processor{
         if(df==null)
         {
             System.err.println("NULO");
-            System.err.println("NULO");
-            System.err.println("NULO");
         }
         else
         {
