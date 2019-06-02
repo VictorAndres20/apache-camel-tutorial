@@ -13,9 +13,7 @@ public class ProcessorAPI implements Processor{
         DataFormat df=exchange.getIn().getBody(DataFormat.class);
         if(df==null)
         {
-            System.err.println("NULO");
-            System.err.println("NULO");
-            System.err.println("NULO");
+            System.err.println("Data format nulo");
         }
         else
         {
