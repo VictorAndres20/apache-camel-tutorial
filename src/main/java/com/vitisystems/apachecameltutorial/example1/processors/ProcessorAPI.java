@@ -24,4 +24,8 @@ public class ProcessorAPI implements Processor{
     public void examplegit(){
         System.out.println("Hola");
     }
+    
+    public void examplegit4(){
+        System.out.println("Hola");
+    }
 }
