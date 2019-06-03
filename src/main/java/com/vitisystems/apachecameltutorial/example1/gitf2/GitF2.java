@@ -11,4 +11,8 @@ package com.vitisystems.apachecameltutorial.example1.gitf2;
  */
 public class GitF2 {
     private String examplegit;
+    
+    public void examplegit3(){
+        System.out.println("Hola");
+    }
 }
