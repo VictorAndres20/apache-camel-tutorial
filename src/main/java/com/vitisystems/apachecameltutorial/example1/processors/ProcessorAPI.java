@@ -19,5 +19,9 @@ public class ProcessorAPI implements Processor{
         {
             System.out.println(df.getRestResponse().getResult());
         }
-    }    
+    }  
+    
+    public void examplegit(){
+        System.out.println("Hola");
+    }
 }
